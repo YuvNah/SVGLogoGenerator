@@ -1,0 +1,3 @@
+function generateSVG(data) {
+  return "";
+}
